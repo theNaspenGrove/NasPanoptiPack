@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "1bfd84ffa7f8b68eba75ed88725fbccb90a2d009be8ceed2b7e70dc15e54ba04"
+
+[[files]]
 file = "config/NoChatReports/NCR-Client.json"
 hash = "c00aaa2a7ab2ab2e5db8d8200116d1588b4d1e31682e26d1c663efb3ff55f247"
 
@@ -290,7 +294,7 @@ metafile = true
 
 [[files]]
 file = "mods/minihud-sakura.pw.toml"
-hash = "5571d431701affdfced8df57a340a3e0effbf078d86e98d2e5bd04e6a56ff529"
+hash = "5d1b5169188a861345b16b21f6b814806dad05efec7541d41a5bfdcf43048bbf"
 metafile = true
 
 [[files]]
