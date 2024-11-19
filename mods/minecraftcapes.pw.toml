@@ -1,0 +1,13 @@
+name = "MinecraftCapes"
+filename = "MinecraftCapes Fabric 1.21.3-12.4.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/9gNVPfzw/versions/sCpN7VMk/MinecraftCapes%20Fabric%201.21.3-12.4.0.jar"
+hash-format = "sha512"
+hash = "44a9e7a5d49b26c06f4d65683a7d747ed774e859967c6b449c172c78fe33bc99422436c70ce683147831a90cdbb3b9a29dfdb6fcbca22dab3af6d0869efd6f32"
+
+[update]
+[update.modrinth]
+mod-id = "9gNVPfzw"
+version = "sCpN7VMk"
